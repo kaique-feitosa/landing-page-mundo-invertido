@@ -13,4 +13,5 @@ function switchTheme() {
   }
 
   audio.load();
+  audio.onplay()
 }
